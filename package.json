@@ -1,0 +1,26 @@
+{
+  "name": "kancolle-arcades",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/miyabisun/kancolle-arcades.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/miyabisun/kancolle-arcades/issues"
+  },
+  "homepage": "https://github.com/miyabisun/kancolle-arcades#readme",
+  "dependencies": {
+    "livescript": "github:gkz/LiveScript",
+    "prelude-ls": "^1.1.2",
+    "request": "^2.87.0",
+    "request-promise": "^4.2.2"
+  }
+}
